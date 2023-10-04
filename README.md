@@ -53,13 +53,14 @@ module "vpc_dev" {
 }
 ```
 
-[monitoring](https://github.com/12sergey12/Terraform_04/blob/main/images/ls.7.04-2.0.png)
+![monitoring](https://github.com/12sergey12/Terraform_04/blob/main/images/ls.7.04-2.0.png)
 
 
 <details><summary>terraform-docs</summary>
 
 ```
-## Requirements
+ ------------------------------------------------
+ ## Requirements
 
 | Name | Version |
 |------|---------|
@@ -106,6 +107,7 @@ module "vpc_dev" {
 | <a name="output_external_ip_address"></a> [external\_ip\_address](#output\_external\_ip\_address) | n/a |
 
 
+ ------------------------------------------
 ```
 
 </details>

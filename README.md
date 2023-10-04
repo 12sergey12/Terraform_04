@@ -56,9 +56,6 @@ module "vpc_dev" {
 ![monitoring](https://github.com/12sergey12/Terraform_04/blob/main/images/ls.7.04-2.0.png)
 
 
-<details><summary>terraform-docs</summary>
-
-```
  ------------------------------------------------
  ## Requirements
 
@@ -108,9 +105,6 @@ module "vpc_dev" {
 
 
  ------------------------------------------
-```
-
-</details>
 
 
 ### Задание 3
